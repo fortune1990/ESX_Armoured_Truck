@@ -16,7 +16,7 @@ This script spawns armored trucks for heists, which can be delivered to designat
 2. **Place in Resources**: Copy the entire folder into your `resources` directory.
 3. **Add to Server Config**: Include the resource in your server configuration file (`server.cfg`):
     ```
-    ensure your_script_name
+    ensure ESX_Armoured_Truck
     ```
 
 ## Configuration
